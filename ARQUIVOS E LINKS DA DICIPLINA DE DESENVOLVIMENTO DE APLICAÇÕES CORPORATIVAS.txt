@@ -1,8 +1,8 @@
->>>>> ARQUIVOS E LINKS DAS AULAS DE DESENVOLVIMENTO DE APLICAÇOES CORPORATIVAS <<<<<
+>>>>>ARQUIVOS E LINKS DAS AULAS DE DESENVOLVIMENTO DE APLICAÃ‡OES CORPORATIVAS<<<<<
 
 ********
 
->>Mapa Mental do Conteúdo da Disciplina<<
+>>Mapa Mental do ConteÃºdo da Disciplina<<
 
 
 
@@ -37,28 +37,28 @@ https://github.com/onezimocardoso/CRUD_MVC.git
 3- Delete e inclua o Tomcat 10 (Window -> Preferences->Server->Run Enviroment);
 4- Delete e inclua a API do Servlet no Build Path -> Libraries
 
->> AP1 - Prova Prática <<
+>> AP1 - Prova PrÃ¡tica <<
 
 _PROVA DE AP1_
 
-AP1 de Desenvolvimento de Aplicações Corporativas
+AP1 de Desenvolvimento de AplicaÃ§Ãµes Corporativas
 
-INTRUÇÕES: 
+INTRUÃ‡Ã•ES: 
 
-A prova será composta por 5 questões, cada uma delas valendo até 2 pontos;;
-Ao finalizar a prova você deve compactar a pasta do projeto no formato .zip ou .rar e enviá-lo como resposta. Cada arquivo compactado, deve ser nomeado da forma: NomeSobrenomeMatricula.zip ou NomeSobrenomeMatricula.rar, por exemplo AntonioMelo123456.rar;
-Desse modo, você deve enviar um arquivo para cada uma das duas questões da prova.
+A prova serÃ¡ composta por 5 questÃµes, cada uma delas valendo atÃ© 2 pontos;;
+Ao finalizar a prova vocÃª deve compactar a pasta do projeto no formato .zip ou .rar e enviÃ¡-lo como resposta. Cada arquivo compactado, deve ser nomeado da forma: NomeSobrenomeMatricula.zip ou NomeSobrenomeMatricula.rar, por exemplo AntonioMelo123456.rar;
+Desse modo, vocÃª deve enviar um arquivo para cada uma das duas questÃµes da prova.
 
 
-QUESTÃO 1:	Crie uma aplicação web no Eclipse estruturando corretamente os pacotes e as classes Model, View e Controller para viabilizar a criação de um CRUDE com banco de dados;
+QUESTÃƒO 1:	Crie uma aplicaÃ§Ã£o web no Eclipse estruturando corretamente os pacotes e as classes Model, View e Controller para viabilizar a criaÃ§Ã£o de um CRUDE com banco de dados;
 
-QUESTÃO 2:	Crie, por meio de um script, uma tabela “estoque” no WorkBench do MySQL de modo que as colunas sejam: id_cliente (automática e auto incrementável), nome, idade, endereço e escolaridade. Para isso, escolha os tipos de variáveis adequados para cada campo. Além disso, torne obrigatório a digitação de nome e idade do cliente. Salve o script na mesma pasta do projeto criado no Eclipse.
+QUESTÃƒO 2:	Crie, por meio de um script, uma tabela â€œestoqueâ€ no WorkBench do MySQL de modo que as colunas sejam: id_cliente (automÃ¡tica e auto incrementÃ¡vel), nome, idade, endereÃ§o e escolaridade. Para isso, escolha os tipos de variÃ¡veis adequados para cada campo. AlÃ©m disso, torne obrigatÃ³rio a digitaÃ§Ã£o de nome e idade do cliente. Salve o script na mesma pasta do projeto criado no Eclipse.
 
-QUESTÃO 3:	Crie uma página index.html e construa nessa página um botão que, ao ser pressionado, realize a ligação dessa página com o Servlet do projeto.
+QUESTÃƒO 3:	Crie uma pÃ¡gina index.html e construa nessa pÃ¡gina um botÃ£o que, ao ser pressionado, realize a ligaÃ§Ã£o dessa pÃ¡gina com o Servlet do projeto.
 
-QUESTÃO 4:	Crie um documento pessoas.jsp contendo um botão "novo contato" que direciona para um arquivo "novo.html" que também deve ser criado. 
+QUESTÃƒO 4:	Crie um documento pessoas.jsp contendo um botÃ£o "novo contato" que direciona para um arquivo "novo.html" que tambÃ©m deve ser criado. 
 
-QUESTÃO 5:	Faça com que seja possível incluir através da página novo.html um contato no banco de dados MySQL. Para isso crie um Javascript que valide os dados (não deixando ser transmitido dados que tenham nome ou idade vazios)
+QUESTÃƒO 5:	FaÃ§a com que seja possÃ­vel incluir atravÃ©s da pÃ¡gina novo.html um contato no banco de dados MySQL. Para isso crie um Javascript que valide os dados (nÃ£o deixando ser transmitido dados que tenham nome ou idade vazios)
 
 
 
@@ -82,7 +82,7 @@ https://github.com/onezimocardoso/EE_CR.git
 
 https://drive.google.com/file/d/1I6Itvk2s0mLFEKPsEBnniVCKd_Kbj79B/view?usp=sharing
 
->> Comando de instalação da gem mysql2: <<
+>> Comando de instalaÃ§Ã£o da gem mysql2: <<
 
 gem install mysql2 --platform=ruby -- --with-mysql-dir=c:/your/path/to/Ruby27-x64/msys64/mingw64
 
@@ -90,11 +90,11 @@ Mapa mental: LINK:  https://drive.google.com/file/d/18rNPTCPUawPZRy7OVCRNYh6kUPR
 
 >> APS <<
 
-*Criei um CRUD no padrão MVC com banco de dados MySQL que tenha uma página inicial que contenha um link direcionado para uma página que permitirá incluir, excluir, atualizar e visualizar uma lista de clientes.
+*Criei um CRUD no padrÃ£o MVC com banco de dados MySQL que tenha uma pÃ¡gina inicial que contenha um link direcionado para uma pÃ¡gina que permitirÃ¡ incluir, excluir, atualizar e visualizar uma lista de clientes.
 
 De cada cliente deve ser solicitado o nome, a idade, o telefone e o email.
 
-A pasta do seu projeto deve ser compactada e enviada através do link abaixo.*
+A pasta do seu projeto deve ser compactada e enviada atravÃ©s do link abaixo.*
 
 
 -NAO FEITO-
@@ -102,13 +102,13 @@ A pasta do seu projeto deve ser compactada e enviada através do link abaixo.*
 
 >> PROVA DE AP2 <<
 
-Criei um CRUD no padrão MVC com banco de dados MySQL que tenha uma página inicial que contenha um link direcionado para uma página que permitirá incluir, excluir, atualizar e visualizar uma lista de clientes.
+Criei um CRUD no padrÃ£o MVC com banco de dados MySQL que tenha uma pÃ¡gina inicial que contenha um link direcionado para uma pÃ¡gina que permitirÃ¡ incluir, excluir, atualizar e visualizar uma lista de clientes.
 
-Cada cliente deve ter nome, sobrenome, data de nascimento, email, observação
+Cada cliente deve ter nome, sobrenome, data de nascimento, email, observaÃ§Ã£o
 
-Faça um novo controller atrelada a uma view inicial (index) que contenha um link que direcione para a tabela do banco de dados.
+FaÃ§a um novo controller atrelada a uma view inicial (index) que contenha um link que direcione para a tabela do banco de dados.
 
-A pasta do seu projeto deve ser compactada e enviada através do link abaixo.
+A pasta do seu projeto deve ser compactada e enviada atravÃ©s do link abaixo.
 
 *DOWNLOAD DA MINHA PROVA*
 
