@@ -1,0 +1,106 @@
+3 + Enter //para instalar
+
+Enter //continuar instalando
+
+gem install rails //instalar gem rails
+
+
+sair de uma pasta />cd .. //sair da pasta
+
+criar arquivo ruby
+/> rails new  //teste1// //cria uma pasta em ruby 
+
+
+rails generate controller home index//criar uma index automatica
+
+
+
+bundle install //dentro da pasta teste1 //previnir erros de versões desatualizadas
+
+rails server //dentro da pasta teste1 //criar um server rails ruby
+
+
+CASO ERRO DE SUBIR O SERVIDOR VÁ P/ PASTA "GEMFILE" DENTRO DO SEU PROJETO E VA ATÉ O "tzinfo" APAGUE A VIRGULA E DEPOIS DELA.
+
+DEPOIS VÁ NO CMD E DÊ NOVAMENTE O COMANDO "bundle install" DEPOIS "rails server"  onde o site vai ser esse: http://localhost:3000/
+
+VA PARA PASTA DO SEU PROJETO E CRIE VARIÁVEIS NO CMD // ENTRA NA PASTA />cd teste1
+
+rails generate scaffold customer //criar variáveis// nome:string email:string aniversario:date observacao:text //inserindo variáveis
+
+gem install mysql2 --platform=ruby -- --with-mysql-dir=c:/your path to Ruby31-x64/msys64/mingw64
+
+
+
+
+antes disso lembre-se sempre de />cd.. até o c:
+
+
+
+migrar banco de dados: rake db:migrate
+
+em routes.rb antes do end coloque get"/customer"=>"customers#index 
+
+dentro do site local:3000/customer
+
+//customer.rb está e, models dentro de app
+//customers está dentro do controller
+
+
+
+rails new apptest2 --database=mysql //criar um projeto com a bd mysql
+
+
+
+
+
+
+
+caso o projeto nao crie, vá em powershell windows e dÊ esse comando:
+
+winget install --id Git.Git -e --source winget
+
+https://git-scm.com/download/win CASO NAO TENHA O GIT
+
+
+
+
+COMANDOS DEPIS QUE CRIA VARIÁVEIS:
+invoke  active_record
+      create    db/migrate/20221027121221_create_customers.rb
+      create    app/models/customer.rb
+      invoke    test_unit
+      create      test/models/customer_test.rb
+      create      test/fixtures/customers.yml
+      invoke  resource_route
+       route    resources :customers
+      invoke  scaffold_controller
+      create    app/controllers/customers_controller.rb
+      invoke    erb
+      create      app/views/customers
+      create      app/views/customers/index.html.erb
+      create      app/views/customers/edit.html.erb
+      create      app/views/customers/show.html.erb
+      create      app/views/customers/new.html.erb
+      create      app/views/customers/_form.html.erb
+      create      app/views/customers/_customer.html.erb
+      invoke    resource_route
+      invoke    test_unit
+      create      test/controllers/customers_controller_test.rb
+      create      test/system/customers_test.rb
+      invoke    helper
+      create      app/helpers/customers_helper.rb
+      invoke      test_unit
+      invoke    jbuilder
+      create      app/views/customers/index.json.jbuilder
+      create      app/views/customers/show.json.jbuilder
+      create      app/views/customers/_customer.json.jbuilder
+
+03/11------ coloque para mysql => gem install mysql2 --platform=ruby -- -- with-mysql-dir=C:\Ruby31-x64\msys64\mingw64
+
+
+de gem install rails 
+
+
+
+criar projeto com mysql: rails new "projeto" -d=mysql

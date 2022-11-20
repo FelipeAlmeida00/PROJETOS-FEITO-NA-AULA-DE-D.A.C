@@ -1,0 +1,137 @@
+>>>>> ARQUIVOS E LINKS DAS AULAS DE DESENVOLVIMENTO DE APLICAÇOES CORPORATIVAS <<<<<
+
+********
+
+>>Mapa Mental do Conteúdo da Disciplina<<
+
+
+
+
+-Mapa Mental: CLIQUE AQUI:   https://xmind.works/#/share/vsZYf3Oz
+
+
+-Mapa Mental: CLIQUE AQUI: 
+  https://xmind.works/#/share/vsZYf3Oz
+
+
+>>Projeto Servlet<<
+
+*ARQUIVOS ZIPADO JA NA PASTA*
+https://educacaoonline.unifametro.edu.br/mod/resource/view.php?id=343771&redirect=1
+
+
+>> Arquivos TOMCAT <<
+https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.62/bin/
+
+>> Arquivo Cliente do Projeto <<
+https://educacaoonline.unifametro.edu.br/mod/resource/view.php?id=343700&redirect=1
+
+>> CRUD MVC GitHub <<
+
+Segue o link:
+
+https://github.com/onezimocardoso/CRUD_MVC.git
+
+1- Importe o projeto do git;
+2- Atualize a senha da classe DAO para "123456";
+3- Delete e inclua o Tomcat 10 (Window -> Preferences->Server->Run Enviroment);
+4- Delete e inclua a API do Servlet no Build Path -> Libraries
+
+>> AP1 - Prova Prática <<
+
+_PROVA DE AP1_
+
+AP1 de Desenvolvimento de Aplicações Corporativas
+
+INTRUÇÕES: 
+
+A prova será composta por 5 questões, cada uma delas valendo até 2 pontos;;
+Ao finalizar a prova você deve compactar a pasta do projeto no formato .zip ou .rar e enviá-lo como resposta. Cada arquivo compactado, deve ser nomeado da forma: NomeSobrenomeMatricula.zip ou NomeSobrenomeMatricula.rar, por exemplo AntonioMelo123456.rar;
+Desse modo, você deve enviar um arquivo para cada uma das duas questões da prova.
+
+
+QUESTÃO 1:	Crie uma aplicação web no Eclipse estruturando corretamente os pacotes e as classes Model, View e Controller para viabilizar a criação de um CRUDE com banco de dados;
+
+QUESTÃO 2:	Crie, por meio de um script, uma tabela “estoque” no WorkBench do MySQL de modo que as colunas sejam: id_cliente (automática e auto incrementável), nome, idade, endereço e escolaridade. Para isso, escolha os tipos de variáveis adequados para cada campo. Além disso, torne obrigatório a digitação de nome e idade do cliente. Salve o script na mesma pasta do projeto criado no Eclipse.
+
+QUESTÃO 3:	Crie uma página index.html e construa nessa página um botão que, ao ser pressionado, realize a ligação dessa página com o Servlet do projeto.
+
+QUESTÃO 4:	Crie um documento pessoas.jsp contendo um botão "novo contato" que direciona para um arquivo "novo.html" que também deve ser criado. 
+
+QUESTÃO 5:	Faça com que seja possível incluir através da página novo.html um contato no banco de dados MySQL. Para isso crie um Javascript que valide os dados (não deixando ser transmitido dados que tenham nome ou idade vazios)
+
+
+
+
+*DOWNLOAD DA MINHA PROVA*
+
+https://educacaoonline.unifametro.edu.br/pluginfile.php/824755/assignsubmission_file/submission_files/452704/Projeto%20Prova%20Felipe.zip?forcedownload=1
+
+_X.mind.ink_
+https://educacaoonline.unifametro.edu.br/pluginfile.php/824755/assignsubmission_file/submission_files/452704/Xmind.lnk?forcedownload=1
+
+
+>> Projeto MVC (Create e Read) <<
+
+Segue o link:
+
+https://github.com/onezimocardoso/EE_CR.git
+
+
+>> MVC_Completo <<
+
+https://drive.google.com/file/d/1I6Itvk2s0mLFEKPsEBnniVCKd_Kbj79B/view?usp=sharing
+
+>> Comando de instalação da gem mysql2: <<
+
+gem install mysql2 --platform=ruby -- --with-mysql-dir=c:/your/path/to/Ruby27-x64/msys64/mingw64
+
+Mapa mental: LINK:  https://drive.google.com/file/d/18rNPTCPUawPZRy7OVCRNYh6kUPR7X32N/view?usp=sharing
+
+>> APS <<
+
+*Criei um CRUD no padrão MVC com banco de dados MySQL que tenha uma página inicial que contenha um link direcionado para uma página que permitirá incluir, excluir, atualizar e visualizar uma lista de clientes.
+
+De cada cliente deve ser solicitado o nome, a idade, o telefone e o email.
+
+A pasta do seu projeto deve ser compactada e enviada através do link abaixo.*
+
+
+-NAO FEITO-
+
+
+>> PROVA DE AP2 <<
+
+Criei um CRUD no padrão MVC com banco de dados MySQL que tenha uma página inicial que contenha um link direcionado para uma página que permitirá incluir, excluir, atualizar e visualizar uma lista de clientes.
+
+Cada cliente deve ter nome, sobrenome, data de nascimento, email, observação
+
+Faça um novo controller atrelada a uma view inicial (index) que contenha um link que direcione para a tabela do banco de dados.
+
+A pasta do seu projeto deve ser compactada e enviada através do link abaixo.
+
+*DOWNLOAD DA MINHA PROVA*
+
+https://educacaoonline.unifametro.edu.br/pluginfile.php/913120/assignsubmission_file/submission_files/482226/ezyzip.zip?forcedownload=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
