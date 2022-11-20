@@ -1,0 +1,16 @@
+create database dbestoque1;
+show databases;
+use dbestoque1;
+create table clientes(
+idcon int primary key auto_increment,
+nome varchar(50) not null,
+idade varchar(15) not null,
+endereco varchar(50),
+escolaridade varchar(50)
+);
+show tables;
+describe clientes;
+
+select * from clientes;
+
+select * from clientes order by nome;

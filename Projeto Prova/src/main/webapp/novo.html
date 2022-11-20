@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Lista de Clientes</title>
+		<link rel="icon" href="imagens/clientes1.png">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Criar Novo Contato</h1>
+		<form name=frmContato action="inserir">
+			<table>
+				<tr>
+					<td><input type="text" name="nome" placeholder="Nome" class="Caixa"></td>
+				</tr>
+				<tr>
+					<td><input type="text" name="idade" placeholder="Idade" class="Caixa2"></td>
+				</tr>
+				<tr>
+					<td><input type="text" name="endereço" placeholder="Endereço" class="Caixa"></td>
+				</tr>
+				<tr>
+					<td><input type="text" name="escolaridade" placeholder="Escolaridade" class="Caixa"></td>
+				</tr>	
+		
+			</table>
+			<input type="button" value="Adicionar" class="Config" onclick="validar()">
+		</form>
+		<script src="scripts/validador.js"></script>
+	</body>
+</html>
